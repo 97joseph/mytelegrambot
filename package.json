@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/97joseph/mytelegrambot/issues"
   },
-  "homepage": "https://github.com/97joseph/mytelegrambot#readme"
+  "homepage": "https://github.com/97joseph/mytelegrambot#readme",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
 }
